@@ -101,7 +101,3 @@ python your_script_name.py
 - Regression line representing model predictions
 
 ---
-
-## License
-
-This project is open-source and intended for educational purposes.
